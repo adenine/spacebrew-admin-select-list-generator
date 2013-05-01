@@ -1,20 +1,20 @@
-
 Spacebrew Admin Select List Generator  
 =====================================  
   
-This script enables you to easily add admin select lists for subscribers and publishers to your admin-enabled client spacebrew apps. You just have to follow these 5 easy steps (more details are included below):
-# import the select list generator script  
-# instantiate the select list generator  
-# initialize the drop down lists   
-# register the spacebrew client object with the list generator  
-# add html select tag for each admin select lists  
+This script enables you to easily add admin select lists for subscribers and publishers to your admin-enabled client spacebrew apps. You just have to follow these 5 easy steps (more details are included below):  
+  
+  1. import the select list generator script  
+  2. instantiate the select list generator  
+  3. initialize the drop down lists   
+  4. register the spacebrew client object with the list generator  
+  5. add html select tag for each admin select lists  
   
 Please note that this library only works will the Spacebrew.js library sb-admin-0.1.0 and above.  
   
-@author 	Julio Terra  
-@filename	sb-admin-dropdown-gen-0.1.0.js  
-@version 	0.2.0  
-@date 		April 29, 2013  
+@author: 	Julio Terra  
+@filename:	sb-admin-dropdown-gen-0.2.0.js  
+@version:	0.2.0  
+@date: April 30, 2013  
 
 Detailed Instructions
 ---------------------  
